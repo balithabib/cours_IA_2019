@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{D\351finition :}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Pourquoi ce th\350me ?}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Applications :}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{La sant\351 :}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Les automobiles :}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{La surveillance :}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.4}{L\220astronomie :}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.5}{L\220agriculture :}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.6}{L\220industriel :}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.7}{L\220imagerie par satellite :}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{R\351seaux de Neurones \340 Convolution \(CNN\):}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{D\351finition :}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Les couches de base d'un CNN}{section.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Op\351ration de Convolution :}{subsection.3.2}% 15
+\BOOKMARK [3][-]{subsubsection.3.2.2}{L\220utilit\351 de la convolution : }{subsection.3.2}% 16
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Couche RELU \(Rectifier Linear Unit ou Rectification Lin\351are\):}{subsection.3.2}% 17
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Max Pooling :}{subsection.3.2}% 18
+\BOOKMARK [3][-]{subsubsection.3.2.5}{Flattening : }{subsection.3.2}% 19
+\BOOKMARK [3][-]{subsubsection.3.2.6}{Couche compl\350tement connect\351e : }{subsection.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.3}{Architectures CNN}{section.3}% 21
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 22
+\BOOKMARK [1][-]{section*.2}{References}{}% 23

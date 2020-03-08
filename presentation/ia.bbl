@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{fukushima1980neocognitron}
+Kunihiko Fukushima.
+\newblock Neocognitron: A self-organizing neural network model for a mechanism
+  of pattern recognition unaffected by shift in position.
+\newblock {\em Biological cybernetics}, 36(4):193--202, 1980.
+
+\bibitem{lecun1995convolutional}
+Yann LeCun, Yoshua Bengio, et~al.
+\newblock Convolutional networks for images, speech, and time series.
+\newblock {\em The handbook of brain theory and neural networks},
+  3361(10):1995, 1995.
+
+\bibitem{lecun1998gradient}
+Yann LeCun, L{\'e}on Bottou, Yoshua Bengio, Patrick Haffner, et~al.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 1998.
+
+\bibitem{scherer2010evaluation}
+Dominik Scherer, Andreas M{\"u}ller, and Sven Behnke.
+\newblock Evaluation of pooling operations in convolutional architectures for
+  object recognition.
+\newblock In {\em International conference on artificial neural networks},
+  pages 92--101. Springer, 2010.
+
+\bibitem{wu2017convolutional}
+Jianxin Wu.
+\newblock Convolutional neural networks.
+\newblock {\em Published online at https://cs. nju. edu. cn/wujx/teaching/15
+  CNN. pdf}, 2017.
+
+\end{thebibliography}

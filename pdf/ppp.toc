@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}D\IeC {\'e}finition :}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Pourquoi ce th\IeC {\`e}me ?}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Applications :}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}La sant\IeC {\'e} :}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Les automobiles :}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}La surveillance :}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}L\IeC {\textquoteright }astronomie :}{4}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}L\IeC {\textquoteright }agriculture :}{4}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}L\IeC {\textquoteright }industriel :}{5}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}L\IeC {\textquoteright }imagerie par satellite :}{5}{subsection.2.7}
+\contentsline {section}{\numberline {3}R\IeC {\'e}seaux de Neurones \IeC {\`a} Convolution (CNN):}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}D\IeC {\'e}finition :}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Les couches de base d'un CNN}{6}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Op\IeC {\'e}ration de Convolution :}{6}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}L\IeC {\textquoteright }utilit\IeC {\'e} de la convolution : }{8}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Couche RELU (Rectifier Linear Unit ou Rectification Lin\IeC {\'e}are):}{8}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Max Pooling :}{10}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Flattening : }{11}{subsubsection.3.2.5}
+\contentsline {subsubsection}{\numberline {3.2.6}Couche compl\IeC {\`e}tement connect\IeC {\'e}e : }{12}{subsubsection.3.2.6}
+\contentsline {subsection}{\numberline {3.3}Architectures CNN}{16}{subsection.3.3}
+\contentsline {section}{\numberline {4}Conclusion}{19}{section.4}
+\contentsline {section}{References}{20}{section*.2}

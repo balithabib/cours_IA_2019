@@ -1,0 +1,11 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Application}{4}{0}{2}
+\beamer@sectionintoc {3}{CNN}{5}{0}{3}
+\beamer@subsectionintoc {3}{1}{D\IeC {\'e}finition}{5}{0}{3}
+\beamer@subsectionintoc {3}{2}{Les couches d'un CNN}{6}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{1}{Convolution}{7}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{2}{Max Pooling}{8}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{3}{Flattening}{9}{0}{3}
+\beamer@subsubsectionintoc {3}{2}{4}{Fully Connected}{10}{0}{3}
+\beamer@subsectionintoc {3}{3}{Architectures CNN}{11}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{13}{0}{4}
